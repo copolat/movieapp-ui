@@ -1,4 +1,4 @@
-// rcredux create class component snippet
+// rcredux create class component snippet 
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 
