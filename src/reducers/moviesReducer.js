@@ -1,8 +1,8 @@
 const initialState = {
-
+  movies:[]
 }
 
-export default (state = [], { type, payload }) => {
+export default (state = initialState, { type, payload }) => {
   switch (type) {
 
   /*case typeName:
