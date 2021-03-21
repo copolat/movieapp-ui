@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
-import MovieList from '../pages'
+import MovieList from '../MovieList';
 
 export class MoviesPage extends Component {
 
