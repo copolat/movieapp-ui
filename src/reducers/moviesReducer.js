@@ -1,5 +1,5 @@
 const initialState = {
-  movies:[]
+  movies:[1,2,3]
 }
 
 export default (state = initialState, { type, payload }) => {
